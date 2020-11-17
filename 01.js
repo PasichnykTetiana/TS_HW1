@@ -1,0 +1,1 @@
+var incrementArrow2 = function (x) { return x + 1; };
